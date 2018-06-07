@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26A69A</color>
+    <color name="colorPrimaryDark">#229388</color>
+    <color name="colorAccent">#51B8AE</color>
+
+    <!--100%    FF-->
+    <!--95% 	F2-->
+    <!--90% 	E6-->
+    <!--85% 	D9-->
+    <!--80% 	CC-->
+    <!--75%	    BF-->
+    <!--70% 	B3-->
+    <!--65% 	A6-->
+    <!--60% 	99-->
+    <!--55% 	8C-->
+    <!--50% 	80-->
+    <!--45% 	73-->
+    <!--40% 	66-->
+    <!--35% 	59-->
+    <!--30% 	4D-->
+    <!--25% 	40-->
+    <!--20% 	33-->
+    <!--15% 	26-->
+    <!--10% 	1A-->
+    <!--5%  	0D-->
+    <!--0%  	00-->
+
+    <color name="black">#000000</color>
+    <color name="color_101010">#101010</color>
+    <color name="white">#FFFFFF</color>
+    <color name="color_FAFAFA">#F8F8F8</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="toast_bg_transparent">#99000000</color>
+
+    <color name="btn_blue_pressed">#5997EF</color>
+    <color name="btn_blue_normal">#7FB6F6</color>
+    <color name="btn_green_pressed">#08A760</color>
+    <color name="btn_green_normal">#12C386</color>
+    <color name="btn_white_normal">#ffffff</color>
+    <color name="btn_white_pressed">#f5f5f5</color>
+    <color name="black_pressed">#33FFFFFF</color>
+
+    <!--口袋妖怪属性颜色-->
+    <color name="general">#BBBBAA</color>
+    <color name="fighting">#BB5544</color>
+    <color name="flight">#6699FF</color>
+    <color name="poison">#AA5599</color>
+    <color name="ground">#DDBB55</color>
+    <color name="rock">#BBAA66</color>
+    <color name="insect">#AABB22</color>
+    <color name="ghost">#6666BB</color>
+    <color name="steel">#AAAABB</color>
+    <color name="fire">#FF4422</color>
+    <color name="water">#3399FF</color>
+    <color name="grass">#77CC55</color>
+    <color name="electricity">#FFCC33</color>
+    <color name="superpower">#FF5599</color>
+    <color name="ice">#77DDFF</color>
+    <color name="dragon">#7766EE</color>
+    <color name="evil">#775544</color>
+    <color name="fairy">#FFAAFF</color>
+
+    <color name="bg_general">#E7E7D8</color>
+    <color name="bg_fighting">#DD9988</color>
+    <color name="bg_flight">#99BBFF</color>
+    <color name="bg_poison">#C689BA</color>
+    <color name="bg_ground">#F1DDA0</color>
+    <color name="bg_rock">#E1D08C</color>
+    <color name="bg_insect">#DAEC44</color>
+    <color name="bg_ghost">#9F9FEC</color>
+    <color name="bg_steel">#DFDFE1</color>
+    <color name="bg_fire">#FF927D</color>
+    <color name="bg_water">#77BBFF</color>
+    <color name="bg_grass">#BDFFA3</color>
+    <color name="bg_electricity">#FAE078</color>
+    <color name="bg_superpower">#FF9CC4</color>
+    <color name="bg_ice">#DBF6FF</color>
+    <color name="bg_dragon">#A194FF</color>
+    <color name="bg_evil">#BDA396</color>
+    <color name="bg_fairy">#FBCBFB</color>
+
+    <color name="hp">#12FB58</color>
+    <color name="attack">#FFF60C</color>
+    <color name="defense">#FF8701</color>
+    <color name="s_attack">#14F1F6</color>
+    <color name="s_defense">#0D50FC</color>
+    <color name="speed">#E608FB</color>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pokemon图鉴</string>
+
+    <string name="text_pokemon_characteristic_or">%1$s 或 %2$s</string>
+    <string name="text_pokemon_characteristic_not">无</string>
+    <string name="toast_pokemon_had_added_to_datebase">已经成功加入数据库</string>
+
+    <string name="text_pokemon_characteristic">特性</string>
+    <string name="text_special_characteristics">特殊特性</string>
+    <string name="text_pokemon_property">属性</string>
+    <string name="text_pokemon_race_value">种族值</string>
+    <string name="text_pokemon_hp_value">HP</string>
+    <string name="text_pokemon_attack_value">攻击</string>
+    <string name="text_pokemon_defense_value">防御</string>
+    <string name="text_special_attack_value">特攻</string>
+    <string name="text_special_defense_value">特防</string>
+    <string name="text_pokemon_speed_value">速度</string>
+
+    <string name="btn_more_information">详细资料</string>
+</resources>
