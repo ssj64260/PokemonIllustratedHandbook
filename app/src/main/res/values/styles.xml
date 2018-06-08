@@ -1,9 +1,9 @@
 <resources>
 
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="colorPrimary">#D86023</item>
-        <item name="colorPrimaryDark">#D86023</item>
-        <item name="colorAccent">#D86023</item>
+        <item name="colorPrimary">#d35756</item>
+        <item name="colorPrimaryDark">#d35756</item>
+        <item name="colorAccent">#d35756</item>
     </style>
 
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />

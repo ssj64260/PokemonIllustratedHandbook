@@ -74,7 +74,7 @@ public class GDPokemonListAdapter extends RecyclerView.Adapter {
         GlideApp.with(mContext)
                 .load(smallLogo)
                 .transform(transform)
-                .diskCacheStrategy(DiskCacheStrategy.AUTOMATIC)
+                .diskCacheStrategy(DiskCacheStrategy.ALL)
                 .placeholder(R.drawable.ic_no_image_circle)
                 .error(R.drawable.ic_no_image_circle)
                 .into(holder.ivLogo);

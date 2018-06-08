@@ -29,6 +29,8 @@ import com.android.pokemonillustratedhandbook.model.GDProperty;
 import com.android.pokemonillustratedhandbook.utils.DisplayUtil;
 import com.android.pokemonillustratedhandbook.utils.GreenDaoHelper;
 import com.android.pokemonillustratedhandbook.widget.imageloader.GlideApp;
+import com.bumptech.glide.load.engine.DiskCacheStrategy;
+import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions;
 
 import org.greenrobot.greendao.query.QueryBuilder;
 
@@ -268,8 +270,13 @@ public class PokemonDetailActivity extends BaseActivity {
         }
         tvId.setText("#" + id);
 
-        GlideApp.with(this).load(logo2)
+        GlideApp.with(this)
+                .load(logo2)
+                .transition(DrawableTransitionOptions.withCrossFade(1000))
+                .diskCacheStrategy(DiskCacheStrategy.ALL)
+                .placeholder(R.drawable.bg_ditto)
                 .error(R.drawable.bg_ditto)
+                .skipMemoryCache(true)
                 .fitCenter()
                 .into(ivImage);
 
