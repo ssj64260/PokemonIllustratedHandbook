@@ -78,10 +78,10 @@ public class PokemonListActivity extends BaseActivity {
 
     private void initPokemonDB(final DaoSession daoSession) {
         final Gson gson = new GsonBuilder().create();
-        final String pokemonJson = AssetsUtil.getAssetsTxtByName(this, "all.txt");
-        final String nameJson = AssetsUtil.getAssetsTxtByName(this, "pokemon_name.txt");
-        final String propertyJson = AssetsUtil.getAssetsTxtByName(this, "property.txt");
-        final String characteristicJson = AssetsUtil.getAssetsTxtByName(this, "characteristic.txt");
+        final String pokemonJson = AssetsUtil.getAssetsTxtByName(this, "all.json");
+        final String nameJson = AssetsUtil.getAssetsTxtByName(this, "pokemon_name.json");
+        final String propertyJson = AssetsUtil.getAssetsTxtByName(this, "property.json");
+        final String characteristicJson = AssetsUtil.getAssetsTxtByName(this, "characteristic.json");
 
         final List<GDPokemon> pokemonList = gson.fromJson(pokemonJson, new TypeToken<List<GDPokemon>>() {
         }.getType());
