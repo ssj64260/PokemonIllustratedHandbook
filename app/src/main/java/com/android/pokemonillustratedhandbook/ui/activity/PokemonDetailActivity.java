@@ -26,7 +26,7 @@ import com.android.pokemonillustratedhandbook.model.GDPokemon;
 import com.android.pokemonillustratedhandbook.model.GDPokemonDao;
 import com.android.pokemonillustratedhandbook.model.GDPokemonName;
 import com.android.pokemonillustratedhandbook.model.GDProperty;
-import com.android.pokemonillustratedhandbook.ui.widget.glide.DrawableTransitionOptions;
+import com.android.pokemonillustratedhandbook.widget.imageloader.DrawableTransitionOptions;
 import com.android.pokemonillustratedhandbook.utils.DisplayUtil;
 import com.android.pokemonillustratedhandbook.utils.GreenDaoHelper;
 import com.android.pokemonillustratedhandbook.widget.imageloader.GlideApp;

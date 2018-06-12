@@ -1,4 +1,4 @@
-package com.android.pokemonillustratedhandbook.ui.widget.glide;
+package com.android.pokemonillustratedhandbook.widget.imageloader;
 
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;

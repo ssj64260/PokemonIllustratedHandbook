@@ -17,4 +17,6 @@
     <string name="text_pokemon_speed_value">速度</string>
 
     <string name="btn_more_information">详细资料</string>
+
+    <string name="floating_button_behavior">com.android.pokemonillustratedhandbook.widget.FloatingButtonBehavior</string>
 </resources>

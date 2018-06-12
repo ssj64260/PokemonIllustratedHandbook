@@ -1,6 +1,7 @@
 package com.android.pokemonillustratedhandbook.ui.activity;
 
 import android.os.Bundle;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.text.Editable;
@@ -27,11 +28,11 @@ import com.android.pokemonillustratedhandbook.model.JoinPokemonToProperty;
 import com.android.pokemonillustratedhandbook.model.JoinPokemonToPropertyDao;
 import com.android.pokemonillustratedhandbook.ui.adapter.GDPokemonListAdapter;
 import com.android.pokemonillustratedhandbook.ui.adapter.OnListClickListener;
-import com.android.pokemonillustratedhandbook.ui.widget.DividerItemDecoration;
 import com.android.pokemonillustratedhandbook.utils.AssetsUtil;
 import com.android.pokemonillustratedhandbook.utils.FastClick;
 import com.android.pokemonillustratedhandbook.utils.GreenDaoHelper;
 import com.android.pokemonillustratedhandbook.utils.ThreadPoolUtil;
+import com.android.pokemonillustratedhandbook.widget.DividerItemDecoration;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
@@ -47,6 +48,7 @@ public class PokemonListActivity extends BaseActivity {
     private EditText etKeyword;
     private ImageView ivSearch;
     private RecyclerView rvPokemonList;
+    private FloatingActionButton btnToTop;
 
     private List<GDPokemon> mPokemonList;
     private List<GDPokemon> mCurrentList;
@@ -90,8 +92,10 @@ public class PokemonListActivity extends BaseActivity {
         etKeyword = findViewById(R.id.et_keyword);
         ivSearch = findViewById(R.id.iv_search);
         rvPokemonList = findViewById(R.id.rv_pokemon_list);
+        btnToTop = findViewById(R.id.btn_to_top);
 
         ivSearch.setOnClickListener(mClick);
+        btnToTop.setOnClickListener(mClick);
         etKeyword.addTextChangedListener(mTextWatcher);
 
         rvPokemonList.setLayoutManager(new LinearLayoutManager(this));
@@ -244,6 +248,11 @@ public class PokemonListActivity extends BaseActivity {
             switch (v.getId()) {
                 case R.id.iv_search:
                     doSearch();
+                    break;
+                case R.id.btn_to_top:
+                    rvPokemonList.scrollToPosition(0);
+                    mAppBarLayout.setExpanded(true, true);
+                    btnToTop.setVisibility(View.INVISIBLE);
                     break;
             }
         }
