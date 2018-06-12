@@ -14,16 +14,16 @@ import android.widget.ImageView;
 import com.android.pokemonillustratedhandbook.R;
 import com.android.pokemonillustratedhandbook.app.BaseActivity;
 import com.android.pokemonillustratedhandbook.model.DaoSession;
-import com.android.pokemonillustratedhandbook.model.GDCharacteristic;
-import com.android.pokemonillustratedhandbook.model.GDCharacteristicDao;
+import com.android.pokemonillustratedhandbook.model.GDAbility;
+import com.android.pokemonillustratedhandbook.model.GDAbilityDao;
 import com.android.pokemonillustratedhandbook.model.GDPokemon;
 import com.android.pokemonillustratedhandbook.model.GDPokemonDao;
 import com.android.pokemonillustratedhandbook.model.GDPokemonName;
 import com.android.pokemonillustratedhandbook.model.GDPokemonNameDao;
 import com.android.pokemonillustratedhandbook.model.GDProperty;
 import com.android.pokemonillustratedhandbook.model.GDPropertyDao;
-import com.android.pokemonillustratedhandbook.model.JoinPokemonToCharacteristic;
-import com.android.pokemonillustratedhandbook.model.JoinPokemonToCharacteristicDao;
+import com.android.pokemonillustratedhandbook.model.JoinPokemonToAbility;
+import com.android.pokemonillustratedhandbook.model.JoinPokemonToAbilityDao;
 import com.android.pokemonillustratedhandbook.model.JoinPokemonToProperty;
 import com.android.pokemonillustratedhandbook.model.JoinPokemonToPropertyDao;
 import com.android.pokemonillustratedhandbook.ui.adapter.GDPokemonListAdapter;
@@ -110,7 +110,7 @@ public class PokemonListActivity extends BaseActivity {
         final String pokemonJson = AssetsUtil.getAssetsTxtByName(this, "pokemon.json");
         final String nameJson = AssetsUtil.getAssetsTxtByName(this, "pokemon_name.json");
         final String propertyJson = AssetsUtil.getAssetsTxtByName(this, "property.json");
-        final String characteristicJson = AssetsUtil.getAssetsTxtByName(this, "characteristic.json");
+        final String abilityJson = AssetsUtil.getAssetsTxtByName(this, "ability.json");
 
         final List<GDPokemon> pokemonList = gson.fromJson(pokemonJson, new TypeToken<List<GDPokemon>>() {
         }.getType());
@@ -118,10 +118,10 @@ public class PokemonListActivity extends BaseActivity {
         }.getType());
         final List<GDProperty> propertyList = gson.fromJson(propertyJson, new TypeToken<List<GDProperty>>() {
         }.getType());
-        final List<GDCharacteristic> characteristicList = gson.fromJson(characteristicJson, new TypeToken<List<GDCharacteristic>>() {
+        final List<GDAbility> abilityList = gson.fromJson(abilityJson, new TypeToken<List<GDAbility>>() {
         }.getType());
         final List<JoinPokemonToProperty> joinPTPList = new ArrayList<>();
-        final List<JoinPokemonToCharacteristic> joinPTCList = new ArrayList<>();
+        final List<JoinPokemonToAbility> joinPTCList = new ArrayList<>();
 
         if (pokemonList == null || pokemonList.isEmpty()) {
             return;
@@ -130,14 +130,14 @@ public class PokemonListActivity extends BaseActivity {
         final GDPokemonDao pokemonDao = daoSession.getGDPokemonDao();
         final GDPokemonNameDao nameDao = daoSession.getGDPokemonNameDao();
         final GDPropertyDao propertyDao = daoSession.getGDPropertyDao();
-        final GDCharacteristicDao characteristicDao = daoSession.getGDCharacteristicDao();
+        final GDAbilityDao abilityDao = daoSession.getGDAbilityDao();
         final JoinPokemonToPropertyDao joinPTPDao = daoSession.getJoinPokemonToPropertyDao();
-        final JoinPokemonToCharacteristicDao joinPTCDao = daoSession.getJoinPokemonToCharacteristicDao();
+        final JoinPokemonToAbilityDao joinPTCDao = daoSession.getJoinPokemonToAbilityDao();
 
         for (GDPokemon pokemon : pokemonList) {
             final String id = pokemon.getId();
             final List<GDProperty> pList = pokemon.getProperty();
-            final List<GDCharacteristic> cList = pokemon.getCharacteristic();
+            final List<GDAbility> cList = pokemon.getAbility();
 
             if (pList != null && !pList.isEmpty()) {
                 for (GDProperty property : pList) {
@@ -150,11 +150,11 @@ public class PokemonListActivity extends BaseActivity {
             }
 
             if (cList != null && !cList.isEmpty()) {
-                for (GDCharacteristic characteristic : cList) {
-                    final String cid = characteristic.getId();
-                    final JoinPokemonToCharacteristic ptc = new JoinPokemonToCharacteristic();
+                for (GDAbility ability : cList) {
+                    final String cid = ability.getId();
+                    final JoinPokemonToAbility ptc = new JoinPokemonToAbility();
                     ptc.setPokemonId(id);
-                    ptc.setCharacteristicId(cid);
+                    ptc.setAbilityId(cid);
                     joinPTCList.add(ptc);
                 }
             }
@@ -165,7 +165,7 @@ public class PokemonListActivity extends BaseActivity {
         pokemonDao.insertInTx(pokemonList);
         nameDao.insertInTx(nameList);
         propertyDao.insertInTx(propertyList);
-        characteristicDao.insertInTx(characteristicList);
+        abilityDao.insertInTx(abilityList);
     }
 
     private void getPokemonList() {

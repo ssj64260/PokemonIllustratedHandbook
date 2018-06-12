@@ -33,11 +33,11 @@ public class GDPokemon {
 
     @ToMany
     @JoinEntity(
-            entity = JoinPokemonToCharacteristic.class,
+            entity = JoinPokemonToAbility.class,
             sourceProperty = "pokemonId",
-            targetProperty = "characteristicId"
+            targetProperty = "abilityId"
     )
-    private List<GDCharacteristic> characteristic;//pokemon 特性
+    private List<GDAbility> ability;//pokemon 特性
 
     private String hp;//pokemon 血量
     private String attack;//pokemon 攻击
@@ -56,6 +56,8 @@ public class GDPokemon {
      */
     @Generated(hash = 241780631)
     private transient GDPokemonDao myDao;
+    @Generated(hash = 1369578685)
+    private transient String pmName__resolvedKey;
 
     @Generated(hash = 1266257761)
     public GDPokemon(String id, String name, String mega, String hp, String attack,
@@ -157,9 +159,6 @@ public class GDPokemon {
         this.ethnic_value = ethnic_value;
     }
 
-    @Generated(hash = 1369578685)
-    private transient String pmName__resolvedKey;
-
     /** To-one relationship, resolved on first access. */
     @Generated(hash = 1685868269)
     public GDPokemonName getPmName() {
@@ -211,9 +210,7 @@ public class GDPokemon {
         return property;
     }
 
-    /**
-     * Resets a to-many relationship, making the next get call to query for a fresh result.
-     */
+    /** Resets a to-many relationship, making the next get call to query for a fresh result. */
     @Generated(hash = 485873664)
     public synchronized void resetProperty() {
         property = null;
@@ -223,31 +220,28 @@ public class GDPokemon {
      * To-many relationship, resolved on first access (and after reset).
      * Changes to to-many relations are not persisted, make changes to the target entity.
      */
-    @Generated(hash = 1520279940)
-    public List<GDCharacteristic> getCharacteristic() {
-        if (characteristic == null) {
+    @Generated(hash = 1985261391)
+    public List<GDAbility> getAbility() {
+        if (ability == null) {
             final DaoSession daoSession = this.daoSession;
             if (daoSession == null) {
                 throw new DaoException("Entity is detached from DAO context");
             }
-            GDCharacteristicDao targetDao = daoSession.getGDCharacteristicDao();
-            List<GDCharacteristic> characteristicNew = targetDao
-                    ._queryGDPokemon_Characteristic(id);
+            GDAbilityDao targetDao = daoSession.getGDAbilityDao();
+            List<GDAbility> abilityNew = targetDao._queryGDPokemon_Ability(id);
             synchronized (this) {
-                if (characteristic == null) {
-                    characteristic = characteristicNew;
+                if (ability == null) {
+                    ability = abilityNew;
                 }
             }
         }
-        return characteristic;
+        return ability;
     }
 
-    /**
-     * Resets a to-many relationship, making the next get call to query for a fresh result.
-     */
-    @Generated(hash = 1932435975)
-    public synchronized void resetCharacteristic() {
-        characteristic = null;
+    /** Resets a to-many relationship, making the next get call to query for a fresh result. */
+    @Generated(hash = 301510219)
+    public synchronized void resetAbility() {
+        ability = null;
     }
 
     /**
@@ -292,4 +286,5 @@ public class GDPokemon {
         this.daoSession = daoSession;
         myDao = daoSession != null ? daoSession.getGDPokemonDao() : null;
     }
+
 }

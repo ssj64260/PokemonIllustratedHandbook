@@ -13,7 +13,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -45,7 +45,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -77,7 +77,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -105,7 +105,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -133,7 +133,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -165,7 +165,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -193,7 +193,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -221,7 +221,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -249,7 +249,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -277,7 +277,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "19",
         "name": "鳞粉"
@@ -305,7 +305,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -337,7 +337,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "14",
         "name": "复眼"
@@ -369,7 +369,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "19",
         "name": "鳞粉"
@@ -401,7 +401,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -433,7 +433,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -465,7 +465,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -501,7 +501,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -537,7 +537,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -569,7 +569,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -601,7 +601,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -637,7 +637,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -669,7 +669,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -697,7 +697,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -729,7 +729,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -761,7 +761,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "9",
         "name": "静电"
@@ -789,7 +789,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "9",
         "name": "静电"
@@ -817,7 +817,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "8",
         "name": "沙隐"
@@ -845,7 +845,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "8",
         "name": "沙隐"
@@ -873,7 +873,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -905,7 +905,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -941,7 +941,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -973,7 +973,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -1005,7 +1005,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -1041,7 +1041,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -1073,7 +1073,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "56",
         "name": "迷人之躯"
@@ -1105,7 +1105,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "56",
         "name": "迷人之躯"
@@ -1137,7 +1137,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "18",
         "name": "引火"
@@ -1165,7 +1165,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "18",
         "name": "引火"
@@ -1197,7 +1197,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "56",
         "name": "迷人之躯"
@@ -1233,7 +1233,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "56",
         "name": "迷人之躯"
@@ -1269,7 +1269,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "39",
         "name": "精神力"
@@ -1301,7 +1301,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "39",
         "name": "精神力"
@@ -1333,7 +1333,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -1365,7 +1365,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -1397,7 +1397,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -1429,7 +1429,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "27",
         "name": "孢子"
@@ -1465,7 +1465,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "27",
         "name": "孢子"
@@ -1501,7 +1501,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "14",
         "name": "复眼"
@@ -1537,7 +1537,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "19",
         "name": "鳞粉"
@@ -1569,7 +1569,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "8",
         "name": "沙隐"
@@ -1601,7 +1601,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "8",
         "name": "沙隐"
@@ -1633,7 +1633,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "53",
         "name": "捡拾"
@@ -1665,7 +1665,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "7",
         "name": "柔软"
@@ -1697,7 +1697,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "6",
         "name": "湿气"
@@ -1729,7 +1729,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "6",
         "name": "湿气"
@@ -1761,7 +1761,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "72",
         "name": "干劲"
@@ -1793,7 +1793,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "72",
         "name": "干劲"
@@ -1825,7 +1825,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -1857,7 +1857,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -1889,7 +1889,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "11",
         "name": "储水"
@@ -1921,7 +1921,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "11",
         "name": "储水"
@@ -1957,7 +1957,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "11",
         "name": "储水"
@@ -1989,7 +1989,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "28",
         "name": "同步"
@@ -2021,7 +2021,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "28",
         "name": "同步"
@@ -2053,7 +2053,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "28",
         "name": "同步"
@@ -2085,7 +2085,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "62",
         "name": "毅力"
@@ -2117,7 +2117,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "62",
         "name": "毅力"
@@ -2149,7 +2149,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "62",
         "name": "毅力"
@@ -2185,7 +2185,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -2217,7 +2217,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -2249,7 +2249,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -2281,7 +2281,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "29",
         "name": "恒净之躯"
@@ -2317,7 +2317,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "29",
         "name": "恒净之躯"
@@ -2353,7 +2353,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "69",
         "name": "坚硬脑袋"
@@ -2389,7 +2389,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "69",
         "name": "坚硬脑袋"
@@ -2425,7 +2425,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "69",
         "name": "坚硬脑袋"
@@ -2457,7 +2457,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -2489,7 +2489,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -2525,7 +2525,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "12",
         "name": "迟钝"
@@ -2561,7 +2561,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "12",
         "name": "迟钝"
@@ -2597,7 +2597,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "42",
         "name": "磁力"
@@ -2633,7 +2633,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "42",
         "name": "磁力"
@@ -2669,7 +2669,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -2705,7 +2705,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -2741,7 +2741,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -2773,7 +2773,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -2809,7 +2809,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -2841,7 +2841,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "1",
         "name": "恶臭"
@@ -2873,7 +2873,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "1",
         "name": "恶臭"
@@ -2905,7 +2905,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "75",
         "name": "硬壳盔甲"
@@ -2941,7 +2941,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "75",
         "name": "硬壳盔甲"
@@ -2977,7 +2977,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -3005,7 +3005,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -3033,7 +3033,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -3061,7 +3061,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "69",
         "name": "坚硬脑袋"
@@ -3093,7 +3093,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "15",
         "name": "不眠"
@@ -3125,7 +3125,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "15",
         "name": "不眠"
@@ -3157,7 +3157,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "52",
         "name": "怪力钳"
@@ -3189,7 +3189,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "52",
         "name": "怪力钳"
@@ -3221,7 +3221,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "43",
         "name": "隔音"
@@ -3253,7 +3253,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "43",
         "name": "隔音"
@@ -3289,7 +3289,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -3321,7 +3321,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -3349,7 +3349,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "69",
         "name": "坚硬脑袋"
@@ -3381,7 +3381,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "69",
         "name": "坚硬脑袋"
@@ -3413,7 +3413,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "7",
         "name": "柔软"
@@ -3445,7 +3445,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -3477,7 +3477,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "20",
         "name": "我行我素"
@@ -3509,7 +3509,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -3533,7 +3533,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -3561,7 +3561,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "31",
         "name": "避雷针"
@@ -3597,7 +3597,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "31",
         "name": "避雷针"
@@ -3629,7 +3629,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "30",
         "name": "自然回复"
@@ -3661,7 +3661,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -3693,7 +3693,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "48",
         "name": "早起"
@@ -3725,7 +3725,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -3757,7 +3757,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -3789,7 +3789,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -3821,7 +3821,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -3853,7 +3853,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "35",
         "name": "发光"
@@ -3889,7 +3889,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "35",
         "name": "发光"
@@ -3925,7 +3925,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "43",
         "name": "隔音"
@@ -3961,7 +3961,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -3997,7 +3997,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "12",
         "name": "迟钝"
@@ -4029,7 +4029,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "9",
         "name": "静电"
@@ -4057,7 +4057,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "49",
         "name": "火焰之躯"
@@ -4085,7 +4085,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "52",
         "name": "怪力钳"
@@ -4117,7 +4117,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -4149,7 +4149,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -4181,7 +4181,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -4213,7 +4213,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "11",
         "name": "储水"
@@ -4245,7 +4245,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "7",
         "name": "柔软"
@@ -4273,7 +4273,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -4305,7 +4305,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "11",
         "name": "储水"
@@ -4333,7 +4333,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "10",
         "name": "蓄电"
@@ -4361,7 +4361,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "18",
         "name": "引火"
@@ -4389,7 +4389,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "36",
         "name": "复制"
@@ -4425,7 +4425,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -4461,7 +4461,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -4497,7 +4497,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -4533,7 +4533,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -4569,7 +4569,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "69",
         "name": "坚硬脑袋"
@@ -4601,7 +4601,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "17",
         "name": "免疫"
@@ -4637,7 +4637,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -4669,7 +4669,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -4701,7 +4701,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -4729,7 +4729,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -4757,7 +4757,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -4789,7 +4789,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "39",
         "name": "精神力"
@@ -4817,7 +4817,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -4845,7 +4845,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "28",
         "name": "同步"
@@ -4869,7 +4869,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -4897,7 +4897,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -4925,7 +4925,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -4953,7 +4953,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -4981,7 +4981,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -5009,7 +5009,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -5037,7 +5037,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -5065,7 +5065,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -5093,7 +5093,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -5121,7 +5121,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -5153,7 +5153,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -5189,7 +5189,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "15",
         "name": "不眠"
@@ -5225,7 +5225,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "15",
         "name": "不眠"
@@ -5261,7 +5261,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -5297,7 +5297,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -5333,7 +5333,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -5369,7 +5369,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -5405,7 +5405,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "39",
         "name": "精神力"
@@ -5437,7 +5437,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "10",
         "name": "蓄电"
@@ -5473,7 +5473,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "10",
         "name": "蓄电"
@@ -5505,7 +5505,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "9",
         "name": "静电"
@@ -5533,7 +5533,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "56",
         "name": "迷人之躯"
@@ -5569,7 +5569,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "56",
         "name": "迷人之躯"
@@ -5601,7 +5601,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "55",
         "name": "活力"
@@ -5637,7 +5637,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "55",
         "name": "活力"
@@ -5673,7 +5673,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "28",
         "name": "同步"
@@ -5709,7 +5709,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "28",
         "name": "同步"
@@ -5741,7 +5741,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "9",
         "name": "静电"
@@ -5769,7 +5769,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "9",
         "name": "静电"
@@ -5797,7 +5797,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "9",
         "name": "静电"
@@ -5825,7 +5825,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -5857,7 +5857,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -5893,7 +5893,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -5925,7 +5925,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -5957,7 +5957,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "11",
         "name": "储水"
@@ -5993,7 +5993,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -6029,7 +6029,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -6065,7 +6065,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -6097,7 +6097,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -6129,7 +6129,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -6161,7 +6161,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -6197,7 +6197,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "3",
         "name": "加速"
@@ -6233,7 +6233,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "6",
         "name": "湿气"
@@ -6269,7 +6269,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "6",
         "name": "湿气"
@@ -6301,7 +6301,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "28",
         "name": "同步"
@@ -6329,7 +6329,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "28",
         "name": "同步"
@@ -6361,7 +6361,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "15",
         "name": "不眠"
@@ -6397,7 +6397,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "12",
         "name": "迟钝"
@@ -6429,7 +6429,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -6453,7 +6453,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -6477,7 +6477,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "23",
         "name": "踩影"
@@ -6509,7 +6509,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "39",
         "name": "精神力"
@@ -6541,7 +6541,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -6573,7 +6573,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -6601,7 +6601,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "32",
         "name": "天恩"
@@ -6637,7 +6637,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "52",
         "name": "怪力钳"
@@ -6673,7 +6673,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "69",
         "name": "坚硬脑袋"
@@ -6705,7 +6705,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -6737,7 +6737,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -6773,7 +6773,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -6809,7 +6809,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -6845,7 +6845,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -6881,7 +6881,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -6917,7 +6917,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "39",
         "name": "精神力"
@@ -6949,7 +6949,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "53",
         "name": "捡拾"
@@ -6981,7 +6981,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "62",
         "name": "毅力"
@@ -7013,7 +7013,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "40",
         "name": "熔岩铠甲"
@@ -7049,7 +7049,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "40",
         "name": "熔岩铠甲"
@@ -7085,7 +7085,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "12",
         "name": "迟钝"
@@ -7121,7 +7121,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "12",
         "name": "迟钝"
@@ -7157,7 +7157,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "55",
         "name": "活力"
@@ -7189,7 +7189,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "55",
         "name": "活力"
@@ -7221,7 +7221,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "21",
         "name": "吸盘"
@@ -7257,7 +7257,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "72",
         "name": "干劲"
@@ -7293,7 +7293,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -7329,7 +7329,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -7365,7 +7365,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "48",
         "name": "早起"
@@ -7401,7 +7401,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "48",
         "name": "早起"
@@ -7437,7 +7437,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -7469,7 +7469,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "53",
         "name": "捡拾"
@@ -7497,7 +7497,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -7525,7 +7525,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "36",
         "name": "复制"
@@ -7557,7 +7557,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -7589,7 +7589,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "20",
         "name": "我行我素"
@@ -7621,7 +7621,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "62",
         "name": "毅力"
@@ -7653,7 +7653,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -7689,7 +7689,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "12",
         "name": "迟钝"
@@ -7721,7 +7721,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "9",
         "name": "静电"
@@ -7749,7 +7749,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "49",
         "name": "火焰之躯"
@@ -7777,7 +7777,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -7809,7 +7809,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "30",
         "name": "自然回复"
@@ -7841,7 +7841,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -7869,7 +7869,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -7897,7 +7897,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -7929,7 +7929,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "62",
         "name": "毅力"
@@ -7961,7 +7961,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -7993,7 +7993,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "45",
         "name": "扬沙"
@@ -8025,7 +8025,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -8057,7 +8057,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -8089,7 +8089,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "30",
         "name": "自然回复"
@@ -8113,7 +8113,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -8141,7 +8141,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -8169,7 +8169,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -8197,7 +8197,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -8229,7 +8229,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -8261,7 +8261,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -8289,7 +8289,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -8321,7 +8321,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -8353,7 +8353,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -8381,7 +8381,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -8413,7 +8413,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -8445,7 +8445,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "53",
         "name": "捡拾"
@@ -8477,7 +8477,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "53",
         "name": "捡拾"
@@ -8509,7 +8509,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "19",
         "name": "鳞粉"
@@ -8537,7 +8537,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -8569,7 +8569,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -8597,7 +8597,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -8629,7 +8629,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "19",
         "name": "鳞粉"
@@ -8661,7 +8661,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -8697,7 +8697,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -8733,7 +8733,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -8765,7 +8765,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -8801,7 +8801,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -8837,7 +8837,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -8873,7 +8873,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "62",
         "name": "毅力"
@@ -8905,7 +8905,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "62",
         "name": "毅力"
@@ -8937,7 +8937,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -8969,7 +8969,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -9001,7 +9001,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "28",
         "name": "同步"
@@ -9037,7 +9037,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "28",
         "name": "同步"
@@ -9073,7 +9073,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "28",
         "name": "同步"
@@ -9109,7 +9109,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -9141,7 +9141,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -9169,7 +9169,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "27",
         "name": "孢子"
@@ -9205,7 +9205,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "27",
         "name": "孢子"
@@ -9237,7 +9237,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "54",
         "name": "懒惰"
@@ -9261,7 +9261,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "72",
         "name": "干劲"
@@ -9285,7 +9285,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "54",
         "name": "懒惰"
@@ -9313,7 +9313,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "14",
         "name": "复眼"
@@ -9345,7 +9345,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "3",
         "name": "加速"
@@ -9377,7 +9377,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "25",
         "name": "神奇守护"
@@ -9405,7 +9405,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "43",
         "name": "隔音"
@@ -9433,7 +9433,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "43",
         "name": "隔音"
@@ -9461,7 +9461,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "43",
         "name": "隔音"
@@ -9489,7 +9489,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -9521,7 +9521,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -9557,7 +9557,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -9589,7 +9589,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -9621,7 +9621,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "56",
         "name": "迷人之躯"
@@ -9653,7 +9653,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "56",
         "name": "迷人之躯"
@@ -9689,7 +9689,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -9725,7 +9725,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "52",
         "name": "怪力钳"
@@ -9761,7 +9761,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -9797,7 +9797,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -9833,7 +9833,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -9869,7 +9869,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "74",
         "name": "瑜伽之力"
@@ -9901,7 +9901,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "74",
         "name": "瑜伽之力"
@@ -9929,7 +9929,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "9",
         "name": "静电"
@@ -9961,7 +9961,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "9",
         "name": "静电"
@@ -9993,7 +9993,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "57",
         "name": "正电"
@@ -10021,7 +10021,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "58",
         "name": "负电"
@@ -10049,7 +10049,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "35",
         "name": "发光"
@@ -10081,7 +10081,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "12",
         "name": "迟钝"
@@ -10117,7 +10117,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "30",
         "name": "自然回复"
@@ -10149,7 +10149,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "64",
         "name": "污泥浆"
@@ -10181,7 +10181,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "64",
         "name": "污泥浆"
@@ -10217,7 +10217,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "24",
         "name": "粗糙皮肤"
@@ -10249,7 +10249,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "24",
         "name": "粗糙皮肤"
@@ -10277,7 +10277,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "41",
         "name": "水幕"
@@ -10309,7 +10309,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "41",
         "name": "水幕"
@@ -10345,7 +10345,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "12",
         "name": "迟钝"
@@ -10381,7 +10381,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "40",
         "name": "熔岩铠甲"
@@ -10413,7 +10413,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "73",
         "name": "白色烟雾"
@@ -10441,7 +10441,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -10473,7 +10473,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -10505,7 +10505,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "20",
         "name": "我行我素"
@@ -10537,7 +10537,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "52",
         "name": "怪力钳"
@@ -10573,7 +10573,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -10605,7 +10605,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -10633,7 +10633,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "8",
         "name": "沙隐"
@@ -10665,7 +10665,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "8",
         "name": "沙隐"
@@ -10697,7 +10697,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "30",
         "name": "自然回复"
@@ -10729,7 +10729,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "30",
         "name": "自然回复"
@@ -10757,7 +10757,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "17",
         "name": "免疫"
@@ -10785,7 +10785,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -10817,7 +10817,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -10845,7 +10845,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -10873,7 +10873,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "12",
         "name": "迟钝"
@@ -10909,7 +10909,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "12",
         "name": "迟钝"
@@ -10941,7 +10941,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "52",
         "name": "怪力钳"
@@ -10977,7 +10977,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "52",
         "name": "怪力钳"
@@ -11013,7 +11013,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -11041,7 +11041,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -11069,7 +11069,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "21",
         "name": "吸盘"
@@ -11101,7 +11101,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "21",
         "name": "吸盘"
@@ -11133,7 +11133,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "4",
         "name": "战斗盔甲"
@@ -11165,7 +11165,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "4",
         "name": "战斗盔甲"
@@ -11193,7 +11193,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -11225,7 +11225,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "63",
         "name": "神奇鳞片"
@@ -11257,7 +11257,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "59",
         "name": "阴晴不定"
@@ -11281,7 +11281,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "16",
         "name": "变色"
@@ -11309,7 +11309,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "15",
         "name": "不眠"
@@ -11341,7 +11341,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "15",
         "name": "不眠"
@@ -11373,7 +11373,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -11401,7 +11401,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -11433,7 +11433,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -11465,7 +11465,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -11489,7 +11489,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -11521,7 +11521,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "23",
         "name": "踩影"
@@ -11549,7 +11549,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "39",
         "name": "精神力"
@@ -11581,7 +11581,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "39",
         "name": "精神力"
@@ -11617,7 +11617,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -11653,7 +11653,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -11689,7 +11689,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -11721,7 +11721,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "75",
         "name": "硬壳盔甲"
@@ -11749,7 +11749,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -11777,7 +11777,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -11809,7 +11809,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -11841,7 +11841,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -11869,7 +11869,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "69",
         "name": "坚硬脑袋"
@@ -11897,7 +11897,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "69",
         "name": "坚硬脑袋"
@@ -11929,7 +11929,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -11961,7 +11961,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "29",
         "name": "恒净之躯"
@@ -11993,7 +11993,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "29",
         "name": "恒净之躯"
@@ -12025,7 +12025,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "29",
         "name": "恒净之躯"
@@ -12053,7 +12053,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "29",
         "name": "恒净之躯"
@@ -12081,7 +12081,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "29",
         "name": "恒净之躯"
@@ -12109,7 +12109,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "29",
         "name": "恒净之躯"
@@ -12141,7 +12141,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -12169,7 +12169,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -12193,7 +12193,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "2",
         "name": "降雨"
@@ -12217,7 +12217,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "70",
         "name": "日照"
@@ -12245,7 +12245,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "76",
         "name": "气闸"
@@ -12273,7 +12273,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "32",
         "name": "天恩"
@@ -12297,7 +12297,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -12321,7 +12321,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -12349,7 +12349,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -12381,7 +12381,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -12409,7 +12409,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -12441,7 +12441,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -12473,7 +12473,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -12501,7 +12501,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -12529,7 +12529,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -12561,7 +12561,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -12593,7 +12593,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -12625,7 +12625,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -12657,7 +12657,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -12685,7 +12685,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "87",
         "name": "单纯"
@@ -12721,7 +12721,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "87",
         "name": "单纯"
@@ -12753,7 +12753,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -12781,7 +12781,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -12809,7 +12809,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "80",
         "name": "斗争心"
@@ -12841,7 +12841,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "80",
         "name": "斗争心"
@@ -12873,7 +12873,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "80",
         "name": "斗争心"
@@ -12909,7 +12909,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "30",
         "name": "自然回复"
@@ -12945,7 +12945,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "30",
         "name": "自然回复"
@@ -12977,7 +12977,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "105",
         "name": "破格"
@@ -13005,7 +13005,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "105",
         "name": "破格"
@@ -13037,7 +13037,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -13069,7 +13069,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -13097,7 +13097,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -13129,7 +13129,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "108",
         "name": "危险预知"
@@ -13161,7 +13161,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -13193,7 +13193,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "119",
         "name": "采蜜"
@@ -13225,7 +13225,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -13253,7 +13253,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -13285,7 +13285,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -13313,7 +13313,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -13341,7 +13341,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -13365,7 +13365,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "123",
         "name": "花之礼"
@@ -13389,7 +13389,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "60",
         "name": "黏着"
@@ -13425,7 +13425,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "60",
         "name": "黏着"
@@ -13457,7 +13457,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "102",
         "name": "技术高手"
@@ -13493,7 +13493,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "107",
         "name": "引爆"
@@ -13529,7 +13529,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "107",
         "name": "引爆"
@@ -13561,7 +13561,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -13593,7 +13593,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "56",
         "name": "迷人之躯"
@@ -13625,7 +13625,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -13653,7 +13653,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "15",
         "name": "不眠"
@@ -13685,7 +13685,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "7",
         "name": "柔软"
@@ -13717,7 +13717,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "47",
         "name": "厚脂肪"
@@ -13749,7 +13749,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -13777,7 +13777,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "1",
         "name": "恶臭"
@@ -13813,7 +13813,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "1",
         "name": "恶臭"
@@ -13849,7 +13849,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -13885,7 +13885,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -13917,7 +13917,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -13953,7 +13953,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "43",
         "name": "隔音"
@@ -13985,7 +13985,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "30",
         "name": "自然回复"
@@ -14021,7 +14021,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -14057,7 +14057,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -14089,7 +14089,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "8",
         "name": "沙隐"
@@ -14121,7 +14121,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "8",
         "name": "沙隐"
@@ -14153,7 +14153,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "8",
         "name": "沙隐"
@@ -14181,7 +14181,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "53",
         "name": "捡拾"
@@ -14213,7 +14213,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "81",
         "name": "不屈之心"
@@ -14249,7 +14249,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "81",
         "name": "不屈之心"
@@ -14281,7 +14281,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "45",
         "name": "扬沙"
@@ -14309,7 +14309,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "45",
         "name": "扬沙"
@@ -14341,7 +14341,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "4",
         "name": "战斗盔甲"
@@ -14377,7 +14377,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "4",
         "name": "战斗盔甲"
@@ -14413,7 +14413,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "108",
         "name": "危险预知"
@@ -14449,7 +14449,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "108",
         "name": "危险预知"
@@ -14481,7 +14481,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -14505,7 +14505,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -14537,7 +14537,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -14573,7 +14573,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -14609,7 +14609,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "118",
         "name": "降雪"
@@ -14641,7 +14641,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "118",
         "name": "降雪"
@@ -14673,7 +14673,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -14705,7 +14705,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "42",
         "name": "磁力"
@@ -14737,7 +14737,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "20",
         "name": "我行我素"
@@ -14773,7 +14773,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "31",
         "name": "避雷针"
@@ -14805,7 +14805,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -14837,7 +14837,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "79",
         "name": "电气引擎"
@@ -14865,7 +14865,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "49",
         "name": "火焰之躯"
@@ -14897,7 +14897,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "55",
         "name": "活力"
@@ -14933,7 +14933,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "3",
         "name": "加速"
@@ -14965,7 +14965,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "103",
         "name": "叶子防守"
@@ -14993,7 +14993,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "82",
         "name": "雪隐"
@@ -15025,7 +15025,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "52",
         "name": "怪力钳"
@@ -15061,7 +15061,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "12",
         "name": "迟钝"
@@ -15093,7 +15093,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "92",
         "name": "适应力"
@@ -15129,7 +15129,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "81",
         "name": "不屈之心"
@@ -15161,7 +15161,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -15193,7 +15193,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -15225,7 +15225,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "82",
         "name": "雪隐"
@@ -15257,7 +15257,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -15281,7 +15281,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -15305,7 +15305,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -15329,7 +15329,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -15357,7 +15357,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -15389,7 +15389,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -15421,7 +15421,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "18",
         "name": "引火"
@@ -15449,7 +15449,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "113",
         "name": "慢启动"
@@ -15477,7 +15477,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -15505,7 +15505,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -15529,7 +15529,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "94",
         "name": "湿润之躯"
@@ -15553,7 +15553,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "94",
         "name": "湿润之躯"
@@ -15577,7 +15577,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "124",
         "name": "梦魇"
@@ -15601,7 +15601,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "30",
         "name": "自然回复"
@@ -15625,7 +15625,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "122",
         "name": "多属性"
@@ -15653,7 +15653,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "163",
         "name": "胜利之星"
@@ -15677,7 +15677,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -15705,7 +15705,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -15733,7 +15733,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -15761,7 +15761,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -15793,7 +15793,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -15825,7 +15825,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -15853,7 +15853,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -15881,7 +15881,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -15909,7 +15909,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -15937,7 +15937,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "50",
         "name": "逃跑"
@@ -15969,7 +15969,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "35",
         "name": "发光"
@@ -16001,7 +16001,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "72",
         "name": "干劲"
@@ -16033,7 +16033,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -16065,7 +16065,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -16097,7 +16097,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "7",
         "name": "柔软"
@@ -16129,7 +16129,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "7",
         "name": "柔软"
@@ -16161,7 +16161,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "83",
         "name": "贪吃鬼"
@@ -16189,7 +16189,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "83",
         "name": "贪吃鬼"
@@ -16217,7 +16217,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "83",
         "name": "贪吃鬼"
@@ -16245,7 +16245,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "83",
         "name": "贪吃鬼"
@@ -16273,7 +16273,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "83",
         "name": "贪吃鬼"
@@ -16301,7 +16301,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "83",
         "name": "贪吃鬼"
@@ -16329,7 +16329,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "109",
         "name": "预知梦"
@@ -16361,7 +16361,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "109",
         "name": "预知梦"
@@ -16397,7 +16397,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "146",
         "name": "健壮胸肌"
@@ -16433,7 +16433,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "146",
         "name": "健壮胸肌"
@@ -16469,7 +16469,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "146",
         "name": "健壮胸肌"
@@ -16501,7 +16501,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "31",
         "name": "避雷针"
@@ -16533,7 +16533,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "31",
         "name": "避雷针"
@@ -16565,7 +16565,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -16593,7 +16593,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -16621,7 +16621,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -16653,7 +16653,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "110",
         "name": "纯朴"
@@ -16689,7 +16689,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "110",
         "name": "纯朴"
@@ -16721,7 +16721,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "147",
         "name": "拨沙"
@@ -16757,7 +16757,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "147",
         "name": "拨沙"
@@ -16789,7 +16789,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "132",
         "name": "治愈之心"
@@ -16821,7 +16821,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "62",
         "name": "毅力"
@@ -16853,7 +16853,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "62",
         "name": "毅力"
@@ -16885,7 +16885,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "62",
         "name": "毅力"
@@ -16917,7 +16917,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -16953,7 +16953,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -16989,7 +16989,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "33",
         "name": "悠游自如"
@@ -17021,7 +17021,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "62",
         "name": "毅力"
@@ -17053,7 +17053,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -17089,7 +17089,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -17125,7 +17125,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "103",
         "name": "叶子防守"
@@ -17161,7 +17161,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -17197,7 +17197,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -17233,7 +17233,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -17269,7 +17269,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -17305,7 +17305,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "159",
         "name": "恶作剧之心"
@@ -17341,7 +17341,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "159",
         "name": "恶作剧之心"
@@ -17373,7 +17373,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -17405,7 +17405,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -17437,7 +17437,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "121",
         "name": "舍身"
@@ -17473,7 +17473,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -17509,7 +17509,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -17545,7 +17545,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "22",
         "name": "威吓"
@@ -17577,7 +17577,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "55",
         "name": "活力"
@@ -17605,7 +17605,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "126",
         "name": "强行"
@@ -17633,7 +17633,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "11",
         "name": "储水"
@@ -17669,7 +17669,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -17705,7 +17705,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -17741,7 +17741,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -17777,7 +17777,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -17813,7 +17813,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "148",
         "name": "奇迹皮肤"
@@ -17845,7 +17845,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "153",
         "name": "木乃伊"
@@ -17869,7 +17869,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "153",
         "name": "木乃伊"
@@ -17897,7 +17897,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "117",
         "name": "坚硬岩石"
@@ -17933,7 +17933,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "117",
         "name": "坚硬岩石"
@@ -17969,7 +17969,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "130",
         "name": "软弱"
@@ -17997,7 +17997,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "130",
         "name": "软弱"
@@ -18021,7 +18021,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "1",
         "name": "恶臭"
@@ -18053,7 +18053,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "1",
         "name": "恶臭"
@@ -18085,7 +18085,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "150",
         "name": "幻觉"
@@ -18109,7 +18109,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "150",
         "name": "幻觉"
@@ -18133,7 +18133,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "56",
         "name": "迷人之躯"
@@ -18165,7 +18165,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "56",
         "name": "迷人之躯"
@@ -18197,7 +18197,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "120",
         "name": "察觉"
@@ -18229,7 +18229,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "120",
         "name": "察觉"
@@ -18261,7 +18261,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "120",
         "name": "察觉"
@@ -18293,7 +18293,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "143",
         "name": "防尘"
@@ -18325,7 +18325,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "143",
         "name": "防尘"
@@ -18357,7 +18357,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "143",
         "name": "防尘"
@@ -18393,7 +18393,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -18429,7 +18429,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -18461,7 +18461,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "116",
         "name": "冰冻之躯"
@@ -18489,7 +18489,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "116",
         "name": "冰冻之躯"
@@ -18517,7 +18517,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "116",
         "name": "冰冻之躯"
@@ -18549,7 +18549,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -18585,7 +18585,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "34",
         "name": "叶绿素"
@@ -18621,7 +18621,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "9",
         "name": "静电"
@@ -18649,7 +18649,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -18685,7 +18685,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -18721,7 +18721,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "27",
         "name": "孢子"
@@ -18753,7 +18753,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "27",
         "name": "孢子"
@@ -18785,7 +18785,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "11",
         "name": "储水"
@@ -18821,7 +18821,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "11",
         "name": "储水"
@@ -18853,7 +18853,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "132",
         "name": "治愈之心"
@@ -18889,7 +18889,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "14",
         "name": "复眼"
@@ -18925,7 +18925,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "14",
         "name": "复眼"
@@ -18961,7 +18961,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "161",
         "name": "铁刺"
@@ -18989,7 +18989,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "161",
         "name": "铁刺"
@@ -19017,7 +19017,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "57",
         "name": "正电"
@@ -19049,7 +19049,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "57",
         "name": "正电"
@@ -19081,7 +19081,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "57",
         "name": "正电"
@@ -19113,7 +19113,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -19137,7 +19137,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -19161,7 +19161,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -19185,7 +19185,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "141",
         "name": "心灵感应"
@@ -19217,7 +19217,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "141",
         "name": "心灵感应"
@@ -19253,7 +19253,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "18",
         "name": "引火"
@@ -19289,7 +19289,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "18",
         "name": "引火"
@@ -19325,7 +19325,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "18",
         "name": "引火"
@@ -19357,7 +19357,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "80",
         "name": "斗争心"
@@ -19389,7 +19389,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "80",
         "name": "斗争心"
@@ -19421,7 +19421,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "80",
         "name": "斗争心"
@@ -19453,7 +19453,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "82",
         "name": "雪隐"
@@ -19481,7 +19481,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "82",
         "name": "雪隐"
@@ -19509,7 +19509,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -19533,7 +19533,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "94",
         "name": "湿润之躯"
@@ -19565,7 +19565,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "94",
         "name": "湿润之躯"
@@ -19601,7 +19601,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "9",
         "name": "静电"
@@ -19633,7 +19633,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "39",
         "name": "精神力"
@@ -19665,7 +19665,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "39",
         "name": "精神力"
@@ -19697,7 +19697,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "24",
         "name": "粗糙皮肤"
@@ -19733,7 +19733,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "90",
         "name": "铁拳"
@@ -19769,7 +19769,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "90",
         "name": "铁拳"
@@ -19805,7 +19805,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "129",
         "name": "不服输"
@@ -19841,7 +19841,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "129",
         "name": "不服输"
@@ -19873,7 +19873,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "121",
         "name": "舍身"
@@ -19909,7 +19909,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -19945,7 +19945,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -19981,7 +19981,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "146",
         "name": "健壮胸肌"
@@ -20017,7 +20017,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "146",
         "name": "健壮胸肌"
@@ -20049,7 +20049,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "83",
         "name": "贪吃鬼"
@@ -20085,7 +20085,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -20121,7 +20121,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "55",
         "name": "活力"
@@ -20149,7 +20149,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "55",
         "name": "活力"
@@ -20177,7 +20177,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -20205,7 +20205,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "49",
         "name": "火焰之躯"
@@ -20237,7 +20237,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "49",
         "name": "火焰之躯"
@@ -20269,7 +20269,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "155",
         "name": "正义之心"
@@ -20297,7 +20297,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "155",
         "name": "正义之心"
@@ -20325,7 +20325,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "155",
         "name": "正义之心"
@@ -20349,7 +20349,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "159",
         "name": "恶作剧之心"
@@ -20381,7 +20381,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "159",
         "name": "恶作剧之心"
@@ -20413,7 +20413,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "164",
         "name": "涡轮火焰"
@@ -20441,7 +20441,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "165",
         "name": "兆级电压"
@@ -20469,7 +20469,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "160",
         "name": "沙之力"
@@ -20501,7 +20501,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "46",
         "name": "压迫感"
@@ -20529,7 +20529,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "155",
         "name": "正义之心"
@@ -20557,7 +20557,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "32",
         "name": "天恩"
@@ -20585,7 +20585,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "89",
         "name": "下载"
@@ -20609,7 +20609,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -20637,7 +20637,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -20669,7 +20669,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -20697,7 +20697,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -20725,7 +20725,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -20757,7 +20757,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -20785,7 +20785,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -20813,7 +20813,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -20845,7 +20845,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -20873,7 +20873,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "53",
         "name": "捡拾"
@@ -20909,7 +20909,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "53",
         "name": "捡拾"
@@ -20945,7 +20945,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "146",
         "name": "健壮胸肌"
@@ -20977,7 +20977,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "49",
         "name": "火焰之躯"
@@ -21009,7 +21009,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "49",
         "name": "火焰之躯"
@@ -21037,7 +21037,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "19",
         "name": "鳞粉"
@@ -21069,7 +21069,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "61",
         "name": "蜕皮"
@@ -21101,7 +21101,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "19",
         "name": "鳞粉"
@@ -21137,7 +21137,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "80",
         "name": "斗争心"
@@ -21173,7 +21173,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "80",
         "name": "斗争心"
@@ -21205,7 +21205,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "167",
         "name": "花幕"
@@ -21233,7 +21233,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "167",
         "name": "花幕"
@@ -21261,7 +21261,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "167",
         "name": "花幕"
@@ -21289,7 +21289,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "158",
         "name": "食草"
@@ -21317,7 +21317,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "158",
         "name": "食草"
@@ -21345,7 +21345,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "90",
         "name": "铁拳"
@@ -21381,7 +21381,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "90",
         "name": "铁拳"
@@ -21413,7 +21413,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "170",
         "name": "毛皮大衣"
@@ -21437,7 +21437,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -21469,7 +21469,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -21505,7 +21505,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "100",
         "name": "无防守"
@@ -21533,7 +21533,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "100",
         "name": "无防守"
@@ -21561,7 +21561,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "177",
         "name": "战斗切换"
@@ -21585,7 +21585,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "132",
         "name": "治愈之心"
@@ -21613,7 +21613,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "132",
         "name": "治愈之心"
@@ -21641,7 +21641,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "176",
         "name": "甜幕"
@@ -21669,7 +21669,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "176",
         "name": "甜幕"
@@ -21701,7 +21701,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "127",
         "name": "唱反调"
@@ -21737,7 +21737,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "127",
         "name": "唱反调"
@@ -21773,7 +21773,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "182",
         "name": "硬爪"
@@ -21809,7 +21809,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "182",
         "name": "硬爪"
@@ -21845,7 +21845,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -21881,7 +21881,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "38",
         "name": "毒刺"
@@ -21913,7 +21913,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "179",
         "name": "超级发射器"
@@ -21937,7 +21937,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "179",
         "name": "超级发射器"
@@ -21965,7 +21965,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "88",
         "name": "干燥皮肤"
@@ -22001,7 +22001,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "88",
         "name": "干燥皮肤"
@@ -22037,7 +22037,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "174",
         "name": "魔术师"
@@ -22069,7 +22069,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "174",
         "name": "魔术师"
@@ -22101,7 +22101,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "175",
         "name": "冰冻皮肤"
@@ -22133,7 +22133,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "175",
         "name": "冰冻皮肤"
@@ -22161,7 +22161,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "56",
         "name": "迷人之躯"
@@ -22193,7 +22193,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "7",
         "name": "柔软"
@@ -22229,7 +22229,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "168",
         "name": "颊囊"
@@ -22265,7 +22265,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "29",
         "name": "恒净之躯"
@@ -22293,7 +22293,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "158",
         "name": "食草"
@@ -22325,7 +22325,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "158",
         "name": "食草"
@@ -22357,7 +22357,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "158",
         "name": "食草"
@@ -22393,7 +22393,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "159",
         "name": "恶作剧之心"
@@ -22425,7 +22425,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "30",
         "name": "自然回复"
@@ -22461,7 +22461,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "30",
         "name": "自然回复"
@@ -22497,7 +22497,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "53",
         "name": "捡拾"
@@ -22533,7 +22533,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "53",
         "name": "捡拾"
@@ -22565,7 +22565,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "20",
         "name": "我行我素"
@@ -22597,7 +22597,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "20",
         "name": "我行我素"
@@ -22633,7 +22633,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "120",
         "name": "察觉"
@@ -22669,7 +22669,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "120",
         "name": "察觉"
@@ -22701,7 +22701,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "188",
         "name": "妖精气场"
@@ -22729,7 +22729,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "187",
         "name": "暗黑气场"
@@ -22757,7 +22757,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "189",
         "name": "气场破坏"
@@ -22785,7 +22785,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "29",
         "name": "恒净之躯"
@@ -22813,7 +22813,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "171",
         "name": "魔术师"
@@ -22841,7 +22841,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "11",
         "name": "储水"
@@ -22869,7 +22869,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -22901,7 +22901,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -22933,7 +22933,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "65",
         "name": "茂盛"
@@ -22961,7 +22961,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -22989,7 +22989,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -23021,7 +23021,7 @@
         "name": "恶"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "66",
         "name": "猛火"
@@ -23049,7 +23049,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -23077,7 +23077,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -23109,7 +23109,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "67",
         "name": "激流"
@@ -23141,7 +23141,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -23177,7 +23177,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -23213,7 +23213,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -23245,7 +23245,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "198",
         "name": "蹲守"
@@ -23277,7 +23277,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "198",
         "name": "蹲守"
@@ -23309,7 +23309,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "68",
         "name": "虫之预感"
@@ -23341,7 +23341,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "217",
         "name": "蓄电池"
@@ -23373,7 +23373,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "26",
         "name": "飘浮"
@@ -23401,7 +23401,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "52",
         "name": "怪力钳"
@@ -23437,7 +23437,7 @@
         "name": "冰"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "52",
         "name": "怪力钳"
@@ -23473,7 +23473,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "216",
         "name": "舞者"
@@ -23505,7 +23505,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "119",
         "name": "采蜜"
@@ -23541,7 +23541,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "119",
         "name": "采蜜"
@@ -23573,7 +23573,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -23605,7 +23605,7 @@
         "name": "岩石"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "51",
         "name": "锐利目光"
@@ -23637,7 +23637,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "208",
         "name": "鱼群"
@@ -23669,7 +23669,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "196",
         "name": "不仁不义"
@@ -23705,7 +23705,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "196",
         "name": "不仁不义"
@@ -23737,7 +23737,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "20",
         "name": "我行我素"
@@ -23769,7 +23769,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "20",
         "name": "我行我素"
@@ -23805,7 +23805,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "199",
         "name": "水泡"
@@ -23837,7 +23837,7 @@
         "name": "虫"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "199",
         "name": "水泡"
@@ -23865,7 +23865,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "103",
         "name": "叶子防守"
@@ -23893,7 +23893,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "103",
         "name": "叶子防守"
@@ -23925,7 +23925,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "35",
         "name": "发光"
@@ -23961,7 +23961,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "35",
         "name": "发光"
@@ -23997,7 +23997,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "212",
         "name": "腐蚀"
@@ -24029,7 +24029,7 @@
         "name": "火"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "212",
         "name": "腐蚀"
@@ -24061,7 +24061,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "218",
         "name": "毛茸茸"
@@ -24097,7 +24097,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "218",
         "name": "毛茸茸"
@@ -24129,7 +24129,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "103",
         "name": "叶子防守"
@@ -24161,7 +24161,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "103",
         "name": "叶子防守"
@@ -24193,7 +24193,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "103",
         "name": "叶子防守"
@@ -24225,7 +24225,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "167",
         "name": "花幕"
@@ -24261,7 +24261,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "39",
         "name": "精神力"
@@ -24293,7 +24293,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "222",
         "name": "接球手"
@@ -24325,7 +24325,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "193",
         "name": "跃跃欲逃"
@@ -24357,7 +24357,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "194",
         "name": "危险回避"
@@ -24389,7 +24389,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "195",
         "name": "遇水凝固"
@@ -24421,7 +24421,7 @@
         "name": "地面"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "195",
         "name": "遇水凝固"
@@ -24449,7 +24449,7 @@
         "name": "水"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "215",
         "name": "飞出的内在物"
@@ -24477,7 +24477,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "4",
         "name": "战斗盔甲"
@@ -24505,7 +24505,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "225",
         "name": "ＡＲ系统"
@@ -24537,7 +24537,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "197",
         "name": "界限盾壳"
@@ -24565,7 +24565,7 @@
         "name": "一般"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "213",
         "name": "绝对睡眠"
@@ -24597,7 +24597,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "75",
         "name": "硬壳盔甲"
@@ -24629,7 +24629,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "161",
         "name": "铁刺"
@@ -24665,7 +24665,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "209",
         "name": "画皮"
@@ -24697,7 +24697,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "219",
         "name": "鲜艳之躯"
@@ -24733,7 +24733,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "201",
         "name": "怒火冲天"
@@ -24769,7 +24769,7 @@
         "name": "草"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "200",
         "name": "钢能力者"
@@ -24797,7 +24797,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "172",
         "name": "防弹"
@@ -24833,7 +24833,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "172",
         "name": "防弹"
@@ -24869,7 +24869,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "172",
         "name": "防弹"
@@ -24905,7 +24905,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "226",
         "name": "电气制造者"
@@ -24937,7 +24937,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "227",
         "name": "精神制造者"
@@ -24969,7 +24969,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "229",
         "name": "青草制造者"
@@ -25001,7 +25001,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "228",
         "name": "薄雾制造者"
@@ -25029,7 +25029,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "110",
         "name": "纯朴"
@@ -25057,7 +25057,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "5",
         "name": "结实"
@@ -25089,7 +25089,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "230",
         "name": "金属防护"
@@ -25121,7 +25121,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "231",
         "name": "幻影防守"
@@ -25153,7 +25153,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "224",
         "name": "异兽提升"
@@ -25185,7 +25185,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "224",
         "name": "异兽提升"
@@ -25217,7 +25217,7 @@
         "name": "格斗"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "224",
         "name": "异兽提升"
@@ -25245,7 +25245,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "224",
         "name": "异兽提升"
@@ -25277,7 +25277,7 @@
         "name": "飞行"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "224",
         "name": "异兽提升"
@@ -25309,7 +25309,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "224",
         "name": "异兽提升"
@@ -25341,7 +25341,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "224",
         "name": "异兽提升"
@@ -25369,7 +25369,7 @@
         "name": "超能力"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "232",
         "name": "棱镜装甲"
@@ -25401,7 +25401,7 @@
         "name": "妖精"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "220",
         "name": "魂心"
@@ -25433,7 +25433,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "102",
         "name": "技术高手"
@@ -25461,7 +25461,7 @@
         "name": "毒"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "224",
         "name": "异兽提升"
@@ -25493,7 +25493,7 @@
         "name": "龙"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "224",
         "name": "异兽提升"
@@ -25525,7 +25525,7 @@
         "name": "钢"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "224",
         "name": "异兽提升"
@@ -25557,7 +25557,7 @@
         "name": "幽灵"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "224",
         "name": "异兽提升"
@@ -25585,7 +25585,7 @@
         "name": "电"
       }
     ],
-    "characteristic": [
+    "ability": [
       {
         "id": "217",
         "name": "蓄电"

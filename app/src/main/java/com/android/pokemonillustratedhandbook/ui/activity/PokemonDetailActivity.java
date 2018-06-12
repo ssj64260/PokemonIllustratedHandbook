@@ -21,7 +21,7 @@ import android.widget.TextView;
 import com.android.pokemonillustratedhandbook.R;
 import com.android.pokemonillustratedhandbook.app.BaseActivity;
 import com.android.pokemonillustratedhandbook.model.DaoSession;
-import com.android.pokemonillustratedhandbook.model.GDCharacteristic;
+import com.android.pokemonillustratedhandbook.model.GDAbility;
 import com.android.pokemonillustratedhandbook.model.GDPokemon;
 import com.android.pokemonillustratedhandbook.model.GDPokemonDao;
 import com.android.pokemonillustratedhandbook.model.GDPokemonName;
@@ -46,13 +46,13 @@ public class PokemonDetailActivity extends BaseActivity {
     private TextView tvJpEnName;//英文日文名
     private TextView tvId;//编号
     private ImageView ivImage;//图片
-    private LinearLayout llBgCharacteristic;//特性总背景色
+    private LinearLayout llBgAbility;//特性总背景色
     private LinearLayout llBgProperty;//属性总背景色
     private LinearLayout llBgEthnicValue;//种族值背景色
     private LinearLayout llBgAttributes;//各项属性背景色
-    private TextView tvCharacteristic1;//特性1
-    private TextView tvCharacteristic2;//特性2
-    private TextView tvCharacteristic3;//特殊特性
+    private TextView tvAbility1;//特性1
+    private TextView tvAbility2;//特性2
+    private TextView tvAbility3;//特殊特性
     private TextView tvProperty1;//属性1
     private TextView tvProperty2;//属性2
     private TextView tvEthnicValue;//种族值
@@ -73,7 +73,7 @@ public class PokemonDetailActivity extends BaseActivity {
     private String mPokemonId;
     private GDPokemon mPokemon;
     private List<GDProperty> mPropertyList;
-    private List<GDCharacteristic> mCharacteristicList;
+    private List<GDAbility> mAbilityList;
 
     private final int[] mPropertyColor = {
             Color.parseColor("#FFBBBBAA"), Color.parseColor("#FFBB5544"), Color.parseColor("#FF6699FF"),
@@ -130,7 +130,7 @@ public class PokemonDetailActivity extends BaseActivity {
         mPokemon = qb.where(GDPokemonDao.Properties.Id.eq(mPokemonId)).unique();
 
         mPropertyList = new ArrayList<>();
-        mCharacteristicList = new ArrayList<>();
+        mAbilityList = new ArrayList<>();
     }
 
     private void setStatusBar() {
@@ -158,13 +158,13 @@ public class PokemonDetailActivity extends BaseActivity {
         tvJpEnName = findViewById(R.id.tv_jp_en_name);
         tvId = findViewById(R.id.tv_pm_id);
         ivImage = findViewById(R.id.iv_pm_img);
-        llBgCharacteristic = findViewById(R.id.ll_bg_characteristic);
+        llBgAbility = findViewById(R.id.ll_bg_ability);
         llBgProperty = findViewById(R.id.ll_bg_property);
         llBgEthnicValue = findViewById(R.id.ll_bg_ethnic_value);
         llBgAttributes = findViewById(R.id.ll_bg_attributes);
-        tvCharacteristic1 = findViewById(R.id.tv_characteristic1);
-        tvCharacteristic2 = findViewById(R.id.tv_characteristic2);
-        tvCharacteristic3 = findViewById(R.id.tv_characteristic3);
+        tvAbility1 = findViewById(R.id.tv_ability1);
+        tvAbility2 = findViewById(R.id.tv_ability2);
+        tvAbility3 = findViewById(R.id.tv_ability3);
         tvProperty1 = findViewById(R.id.tv_pm_property1);
         tvProperty2 = findViewById(R.id.tv_pm_property2);
         tvEthnicValue = findViewById(R.id.tv_ethnic_value);
@@ -226,27 +226,27 @@ public class PokemonDetailActivity extends BaseActivity {
             primaryDarkColor = mPropertyTextColor[0];
         }
 
-        final List<GDCharacteristic> characteristicList = mPokemon.getCharacteristic();
-        mCharacteristicList.clear();
-        if (characteristicList != null && !characteristicList.isEmpty()) {
-            mCharacteristicList.addAll(characteristicList);
-            final String cName1 = mCharacteristicList.size() > 0 ? mCharacteristicList.get(0).getName() : "";
-            final String cName2 = mCharacteristicList.size() > 1 ? mCharacteristicList.get(1).getName() : "";
-            final String cName3 = mCharacteristicList.size() > 2 ? mCharacteristicList.get(2).getName() : "";
+        final List<GDAbility> abilityList = mPokemon.getAbility();
+        mAbilityList.clear();
+        if (abilityList != null && !abilityList.isEmpty()) {
+            mAbilityList.addAll(abilityList);
+            final String cName1 = mAbilityList.size() > 0 ? mAbilityList.get(0).getName() : "";
+            final String cName2 = mAbilityList.size() > 1 ? mAbilityList.get(1).getName() : "";
+            final String cName3 = mAbilityList.size() > 2 ? mAbilityList.get(2).getName() : "";
 
             if (!TextUtils.isEmpty(cName3)) {
-                tvCharacteristic1.setText(cName1);
-                tvCharacteristic2.setText(cName2);
-                tvCharacteristic3.setText(cName3);
+                tvAbility1.setText(cName1);
+                tvAbility2.setText(cName2);
+                tvAbility3.setText(cName3);
 
-                tvCharacteristic2.setVisibility(View.VISIBLE);
+                tvAbility2.setVisibility(View.VISIBLE);
             } else {
-                tvCharacteristic1.setText(cName1);
-                tvCharacteristic3.setText(cName2);
+                tvAbility1.setText(cName1);
+                tvAbility3.setText(cName2);
             }
-            tvCharacteristic1.setOnClickListener(mClick);
-            tvCharacteristic2.setOnClickListener(mClick);
-            tvCharacteristic3.setOnClickListener(mClick);
+            tvAbility1.setOnClickListener(mClick);
+            tvAbility2.setOnClickListener(mClick);
+            tvAbility3.setOnClickListener(mClick);
         }
 
         final String hp = mPokemon.getHp();
@@ -258,7 +258,7 @@ public class PokemonDetailActivity extends BaseActivity {
         final String ethnicValue = mPokemon.getEthnic_value();
 
         mRootView.setBackgroundColor(primaryColor);
-        llBgCharacteristic.setBackgroundResource(primaryDarkColor);
+        llBgAbility.setBackgroundResource(primaryDarkColor);
         llBgProperty.setBackgroundResource(primaryDarkColor);
         llBgEthnicValue.setBackgroundResource(primaryDarkColor);
         llBgAttributes.setBackgroundResource(primaryDarkColor);
@@ -343,14 +343,14 @@ public class PokemonDetailActivity extends BaseActivity {
                     intent.setData(Uri.parse(detailWeb));
                     startActivity(intent);
                     break;
-                case R.id.tv_characteristic1:
-                    showSnackbar(mCharacteristicList.get(0).getDescription());
+                case R.id.tv_ability1:
+                    showSnackbar(mAbilityList.get(0).getDescription());
                     break;
-                case R.id.tv_characteristic2:
-                    showSnackbar(mCharacteristicList.get(1).getDescription());
+                case R.id.tv_ability2:
+                    showSnackbar(mAbilityList.get(1).getDescription());
                     break;
-                case R.id.tv_characteristic3:
-                    showSnackbar(mCharacteristicList.get(mCharacteristicList.size() - 1).getDescription());
+                case R.id.tv_ability3:
+                    showSnackbar(mAbilityList.get(mAbilityList.size() - 1).getDescription());
                     break;
                 case R.id.tv_pm_property1:
                     if (tvProperty1.getText().toString().equals(mPropertyList.get(0).getName())) {

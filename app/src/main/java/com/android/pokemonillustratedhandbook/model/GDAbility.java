@@ -1,19 +1,19 @@
 package com.android.pokemonillustratedhandbook.model;
 
 import org.greenrobot.greendao.annotation.Entity;
-import org.greenrobot.greendao.annotation.Generated;
 import org.greenrobot.greendao.annotation.Id;
 import org.greenrobot.greendao.annotation.JoinEntity;
 import org.greenrobot.greendao.annotation.ToMany;
 import org.greenrobot.greendao.annotation.Transient;
 
 import java.util.List;
+import org.greenrobot.greendao.annotation.Generated;
 
 /**
  * 特性
  */
-@Entity(nameInDb = "GD_Characteristic")
-public class GDCharacteristic {
+@Entity(nameInDb = "GD_Ability")
+public class GDAbility {
 
     @Id
     private String id;//特性ID
@@ -24,15 +24,16 @@ public class GDCharacteristic {
 
     @ToMany
     @JoinEntity(
-            entity = JoinPokemonToCharacteristic.class,
-            sourceProperty = "characteristicId",
+            entity = JoinPokemonToAbility.class,
+            sourceProperty = "abilityId",
             targetProperty = "pokemonId"
     )
     @Transient
     private List<GDPokemon> pokemonList;
-    @Generated(hash = 588841563)
-    public GDCharacteristic(String id, String name, String jp_name, String en_name,
-                            String description) {
+
+    @Generated(hash = 864043029)
+    public GDAbility(String id, String name, String jp_name, String en_name,
+            String description) {
         this.id = id;
         this.name = name;
         this.jp_name = jp_name;
@@ -40,8 +41,8 @@ public class GDCharacteristic {
         this.description = description;
     }
 
-    @Generated(hash = 886828216)
-    public GDCharacteristic() {
+    @Generated(hash = 1366567443)
+    public GDAbility() {
     }
 
     public String getId() {

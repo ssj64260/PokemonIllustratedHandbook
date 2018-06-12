@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">Pokemon图鉴</string>
 
-    <string name="text_pokemon_characteristic_or">%1$s 或 %2$s</string>
-    <string name="text_pokemon_characteristic_not">无</string>
+    <string name="text_pokemon_ability_or">%1$s 或 %2$s</string>
+    <string name="text_pokemon_ability_not">无</string>
     <string name="toast_pokemon_had_added_to_datebase">已经成功加入数据库</string>
 
-    <string name="text_pokemon_characteristic">特性</string>
-    <string name="text_special_characteristics">特殊特性</string>
+    <string name="text_pokemon_ability">特性</string>
+    <string name="text_special_ability">特殊特性</string>
     <string name="text_pokemon_property">属性</string>
     <string name="text_pokemon_race_value">种族值</string>
     <string name="text_pokemon_hp_value">HP</string>
