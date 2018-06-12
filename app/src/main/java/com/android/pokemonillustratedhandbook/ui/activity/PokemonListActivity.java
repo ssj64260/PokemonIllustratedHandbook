@@ -3,6 +3,12 @@ package com.android.pokemonillustratedhandbook.ui.activity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.text.Editable;
+import android.text.TextUtils;
+import android.text.TextWatcher;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.ImageView;
 
 import com.android.pokemonillustratedhandbook.R;
 import com.android.pokemonillustratedhandbook.app.BaseActivity;
@@ -21,9 +27,11 @@ import com.android.pokemonillustratedhandbook.model.JoinPokemonToProperty;
 import com.android.pokemonillustratedhandbook.model.JoinPokemonToPropertyDao;
 import com.android.pokemonillustratedhandbook.ui.adapter.GDPokemonListAdapter;
 import com.android.pokemonillustratedhandbook.ui.adapter.OnListClickListener;
+import com.android.pokemonillustratedhandbook.ui.widget.DividerItemDecoration;
 import com.android.pokemonillustratedhandbook.utils.AssetsUtil;
 import com.android.pokemonillustratedhandbook.utils.FastClick;
 import com.android.pokemonillustratedhandbook.utils.GreenDaoHelper;
+import com.android.pokemonillustratedhandbook.utils.ThreadPoolUtil;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
@@ -36,14 +44,23 @@ import java.util.List;
 
 public class PokemonListActivity extends BaseActivity {
 
+    private EditText etKeyword;
+    private ImageView ivSearch;
     private RecyclerView rvPokemonList;
 
     private List<GDPokemon> mPokemonList;
+    private List<GDPokemon> mCurrentList;
     private GDPokemonListAdapter mPokemonAdapter;
 
     @Override
     protected int getContentView() {
         return R.layout.activity_pokemon_list;
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        etKeyword.removeTextChangedListener(mTextWatcher);
     }
 
     @Override
@@ -60,7 +77,8 @@ public class PokemonListActivity extends BaseActivity {
         super.initData();
 
         mPokemonList = new ArrayList<>();
-        mPokemonAdapter = new GDPokemonListAdapter(this, mPokemonList);
+        mCurrentList = new ArrayList<>();
+        mPokemonAdapter = new GDPokemonListAdapter(this, mCurrentList);
         mPokemonAdapter.setListClick(mListClick);
     }
 
@@ -69,8 +87,15 @@ public class PokemonListActivity extends BaseActivity {
         super.initView(savedInstanceState);
         setToolbarTitle("Pokemon List");
 
+        etKeyword = findViewById(R.id.et_keyword);
+        ivSearch = findViewById(R.id.iv_search);
         rvPokemonList = findViewById(R.id.rv_pokemon_list);
+
+        ivSearch.setOnClickListener(mClick);
+        etKeyword.addTextChangedListener(mTextWatcher);
+
         rvPokemonList.setLayoutManager(new LinearLayoutManager(this));
+        rvPokemonList.addItemDecoration(new DividerItemDecoration(this, 1, R.color.color_FAFAFA));
         rvPokemonList.setAdapter(mPokemonAdapter);
 
         getPokemonList();
@@ -140,30 +165,116 @@ public class PokemonListActivity extends BaseActivity {
     }
 
     private void getPokemonList() {
-        final DaoSession daoSession = new GreenDaoHelper().getDaoSession();
-        final GDPokemonDao pokemonDao = daoSession.getGDPokemonDao();
+        showProgress("加载中...");
 
-        final QueryBuilder<GDPokemon> qb = pokemonDao.queryBuilder();
-        qb.orderAsc(GDPokemonDao.Properties.Id);
-        Query<GDPokemon> query = qb.build();
+        ThreadPoolUtil.getInstache().singleExecute(new Runnable() {
+            @Override
+            public void run() {
+                final DaoSession daoSession = new GreenDaoHelper().getDaoSession();
+                final GDPokemonDao pokemonDao = daoSession.getGDPokemonDao();
 
-        List<GDPokemon> pokemonList = query.list();
-        if (pokemonList == null || pokemonList.isEmpty()) {
-            initPokemonDB(daoSession);
-            pokemonList = query.list();
-        }
+                final QueryBuilder<GDPokemon> qb = pokemonDao.queryBuilder();
+                qb.orderAsc(GDPokemonDao.Properties.Id);
+                final Query<GDPokemon> query = qb.build();
 
-        if (pokemonList != null && !pokemonList.isEmpty()) {
-            mPokemonList.clear();
-            mPokemonList.addAll(pokemonList);
-            mPokemonAdapter.notifyDataSetChanged();
+                List<GDPokemon> pokemonList = query.list();
+                if (pokemonList == null || pokemonList.isEmpty()) {
+                    initPokemonDB(daoSession);
+                    pokemonList = query.list();
+                }
+
+                if (pokemonList != null && !pokemonList.isEmpty()) {
+                    mPokemonList.clear();
+                    mPokemonList.addAll(pokemonList);
+                }
+
+                mCurrentList.clear();
+                mCurrentList.addAll(mPokemonList);
+
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        mPokemonAdapter.notifyDataSetChanged();
+                        hideProgress();
+                    }
+                });
+            }
+        });
+    }
+
+    private void doSearch() {
+        final String keyword = etKeyword.getText().toString();
+        if (!TextUtils.isEmpty(keyword)) {
+            hideKeyboard();
+
+            showProgress("搜索中...");
+
+            ThreadPoolUtil.getInstache().singleExecute(new Runnable() {
+                @Override
+                public void run() {
+                    final DaoSession daoSession = new GreenDaoHelper().getDaoSession();
+                    final GDPokemonDao pokemonDao = daoSession.getGDPokemonDao();
+
+                    final QueryBuilder<GDPokemon> qb = pokemonDao.queryBuilder();
+                    qb.whereOr(GDPokemonDao.Properties.Id.like("%" + keyword + "%"),
+                            GDPokemonDao.Properties.Name.like("%" + keyword + "%"));
+                    final Query<GDPokemon> query = qb.build();
+
+                    final List<GDPokemon> pokemonList = query.list();
+                    mCurrentList.clear();
+                    if (pokemonList != null && !pokemonList.isEmpty()) {
+                        mCurrentList.addAll(pokemonList);
+                    }
+
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            mPokemonAdapter.notifyDataSetChanged();
+                            hideProgress();
+                        }
+                    });
+                }
+            });
         }
     }
+
+    private View.OnClickListener mClick = new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+            switch (v.getId()) {
+                case R.id.iv_search:
+                    doSearch();
+                    break;
+            }
+        }
+    };
+
+    private TextWatcher mTextWatcher = new TextWatcher() {
+        @Override
+        public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+
+        }
+
+        @Override
+        public void onTextChanged(CharSequence s, int start, int before, int count) {
+            final String text = s.toString();
+            if (TextUtils.isEmpty(text)) {
+                mCurrentList.clear();
+                mCurrentList.addAll(mPokemonList);
+                mPokemonAdapter.notifyDataSetChanged();
+            }
+        }
+
+        @Override
+        public void afterTextChanged(Editable s) {
+
+        }
+    };
 
     private OnListClickListener mListClick = new OnListClickListener() {
         @Override
         public void onItemClick(int position) {
-            final GDPokemon pokemon = mPokemonList.get(position);
+            final GDPokemon pokemon = mCurrentList.get(position);
             final String id = pokemon.getId();
             PokemonDetailActivity.show(PokemonListActivity.this, id);
         }

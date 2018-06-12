@@ -5,8 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="55dp"
     android:paddingLeft="10dp"
-    android:paddingRight="10dp"
-    android:background="#11141A">
+    android:paddingRight="10dp">
 
     <ImageView
         android:id="@+id/iv_pm_logo"
@@ -73,11 +72,5 @@
             tools:background="@color/btn_green_pressed"
             tools:text="草" />
     </LinearLayout>
-
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:layout_alignParentBottom="true"
-        android:background="#444444" />
 
 </RelativeLayout>

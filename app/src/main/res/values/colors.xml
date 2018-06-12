@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#26A69A</color>
-    <color name="colorPrimaryDark">#229388</color>
-    <color name="colorAccent">#51B8AE</color>
+    <color name="colorPrimary">#d35756</color>
+    <color name="colorPrimaryDark">#ce403f</color>
+    <color name="colorAccent">#d54c4b</color>
 
     <!--100%    FF-->
     <!--95% 	F2-->
@@ -32,6 +32,7 @@
     <color name="color_FAFAFA">#F8F8F8</color>
 
     <color name="transparent">#00000000</color>
+    <color name="transparent_white">#4Dffffff</color>
     <color name="toast_bg_transparent">#99000000</color>
 
     <color name="btn_blue_pressed">#5997EF</color>
