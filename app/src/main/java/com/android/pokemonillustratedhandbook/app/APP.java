@@ -31,6 +31,6 @@ public class APP extends Application {
     public void onCreate() {
         super.onCreate();
 
-        CrashReport.initCrashReport(getApplicationContext(), "06b4b6de0f", false);
+        CrashReport.initCrashReport(getApplicationContext(), "01e2104b9c", false);
     }
 }
